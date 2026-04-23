@@ -1,4 +1,4 @@
-let nome = "Maria";
+const nome = "Maria";
 let idade = 30;
 const anoDeNascimento = 1980;
 const ano = 2028;
